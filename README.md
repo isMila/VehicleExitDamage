@@ -1,10 +1,11 @@
-🌐 Selecciona tu idioma / Select your language
-- 🇪🇸 Versión en Español
-- 🇺🇸 English Version
+## 📚 Índice / Table of Contents
+
+- [🇪🇸 Español](#-español)
+- [🇺🇸 English](#-english)
 
 ---
 
-🇪🇸 Versión en Español
+### 🇪🇸 Español
 
 VehicleExitDamage
 
@@ -42,7 +43,7 @@ Powered by MilaHosting.com - Hosting Unturned de calidad.
 
 ---
 
-🇺🇸 English Version
+### 🇺🇸 English
 
 VehicleExitDamage
 
