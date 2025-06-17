@@ -37,7 +37,6 @@ Puedes definir múltiples rangos de velocidad, cada uno con su propio valor de d
 
 - 🌐 Web MilaPlugins: https://unturnedplugins.milahosting.com
 - 🎬 Video Tutorial: https://www.youtube.com/watch?v=mEREzOdRFMQ
-- 📦 Download Plugin: https://milahosting.com/VehicleExitDamage.zip
 
 Powered by MilaHosting.com - Hosting Unturned de calidad.
 
@@ -75,6 +74,5 @@ You can define multiple speed ranges, each with a specific amount of damage.
 
 - 🌐 MilaPlugins Website: https://unturnedplugins.milahosting.com
 - 🎬 Video Tutorial: https://www.youtube.com/watch?v=mEREzOdRFMQ
-- 📦 Download Plugin: https://milahosting.com/VehicleExitDamage.zip
 
 Powered by MilaHosting.com - Quality Unturned Hosting.
